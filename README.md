@@ -231,7 +231,7 @@ git clone https://github.com/antonioaugustoalt/ML_Risco_Inadimplencia.git
 ## 2. Acesse a pasta
 
 ```bash
-cd NOME_DO_REPOSITORIO
+cd NOME_DA_PASTA
 ```
 
 ---
